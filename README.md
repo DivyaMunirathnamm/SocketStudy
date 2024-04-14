@@ -78,9 +78,8 @@ s=socket.socket()
 s.connect(('localhost',8000)) 
 while True: 
     print(s.recv(1024).decode()) 
-    s.send("Acknowledgement Recived".encode()) 
-6. Stop the program
- s.bind(('localhost',8000)
+    s.send("Acknowledgement Recived".encode())
+    s.bind(('localhost',8000)
 ```
 ## Output:
 

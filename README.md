@@ -1,5 +1,6 @@
 # Ex.No:1a  			Study of Socket Programming
-
+# Reg No: 212223040043
+# Name: DIVYA M
 ## Aim: 
 To perform a study on Socket Programming.
 ## Introduction:
